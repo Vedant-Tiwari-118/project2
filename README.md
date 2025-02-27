@@ -1,2 +1,2 @@
-# new
-this project from local system.
+# new project
+this is my first project created from local system
